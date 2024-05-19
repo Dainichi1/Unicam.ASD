@@ -12,7 +12,6 @@ import org.junit.jupiter.api.Test;
 /**
  * Classe di test JUnit per la classe CollisionListResizableHashTable
  * 
- * @author Daniele Marchei
  *
  */
 class CollisionListResizableHashTableTest {
