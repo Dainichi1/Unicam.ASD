@@ -3,9 +3,6 @@ package it.unicam.cs.asdl2223.es10sol;
 /**
  * Una classe che implementa questa interfaccia deve fornire una particolare
  * implementazione di una funzione hash primaria.
- * 
- * @author Luca Tesei
- *
  */
 public interface PrimaryHashFunction {
     /**
