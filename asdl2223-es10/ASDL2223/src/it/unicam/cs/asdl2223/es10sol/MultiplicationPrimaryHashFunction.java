@@ -5,9 +5,6 @@ package it.unicam.cs.asdl2223.es10sol;
 
 /**
  * Implementa una funzione di hash primaria con il metodo della moltiplicazione.
- * 
- * @author Luca Tesei
- *
  */
 public class MultiplicationPrimaryHashFunction implements PrimaryHashFunction {
 
