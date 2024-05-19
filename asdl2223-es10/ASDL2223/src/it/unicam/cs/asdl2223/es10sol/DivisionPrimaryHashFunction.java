@@ -6,7 +6,6 @@ package it.unicam.cs.asdl2223.es10sol;
 /**
  * Implementa una funzione hash primaria che usa il metodo della divisione.
  * 
- * @author Luca Tesei
  *
  */
 public class DivisionPrimaryHashFunction implements PrimaryHashFunction {
