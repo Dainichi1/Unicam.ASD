@@ -23,7 +23,7 @@ import java.util.Set;
  * eccede quello di default la tabella viene raddoppiata e viene fatto un
  * riposizionamento di tutti gli elementi.
  * 
- * @author Luca Tesei
+ * 
  *
  */
 public class CollisionListResizableHashTable<E> implements Set<E> {
